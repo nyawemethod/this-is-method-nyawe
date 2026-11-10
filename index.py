@@ -9,6 +9,8 @@ student_data = [
     {"name": "Fred", "grade": 88.0},
     {"name": "Henriette", "grade": 49.0},
     {"name": "method", "grade": 99.0},
+    {"name": "divine", "grade":99.99},
+    {"name":"ezella" , "grade":88},
 ]
 
 total_students = 0
